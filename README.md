@@ -4,9 +4,9 @@
 # Sobre o projeto
 Animated Form é um formulário básico construído com as principais tecnologias front-end.
 
-# Layout Web
+## Layout Web
 ![Web 1](https://github.com/FelipeGB-pgr/Assets/blob/master/animated-form-web1.png)
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 - <p>HTML</p>
 - <p>CSS</p>
